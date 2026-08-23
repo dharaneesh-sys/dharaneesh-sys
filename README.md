@@ -46,16 +46,9 @@
 ### Stats — one widget, clean
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dharaneesh-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dharaneesh-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dharaneesh-sys&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneesh-sys&layout=compact&theme=tokyonight&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneesh-sys&layout=compact&theme=tokyonight&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharaneesh-sys&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top langs" />
-  </picture>
+  <a href="https://github.com/dharaneesh-sys"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dharaneesh-sys&theme=tokyonight" height="150" alt="stats" /></a>
+  <a href="https://github.com/dharaneesh-sys"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dharaneesh-sys&theme=tokyonight" height="150" alt="top langs" /></a>
+  <a href="https://github.com/dharaneesh-sys"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dharaneesh-sys&theme=tokyonight" height="150" alt="commit lang" /></a>
 </p>
 
 ---
@@ -67,4 +60,4 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=7ad9a8&height=80&section=footer&text=&animation=fadeIn" alt="footer" /></p>
 
-<sub>Visitor badge via komarev · typing via readme-typing-svg · header via capsule-render · icons via skillicons.dev · stats via github-readme-stats (tokyonight)</sub>
+<sub>Visitor badge via komarev · typing via readme-typing-svg · header via capsule-render · icons via skillicons.dev · stats via github-profile-summary-cards (tokyonight)</sub>
