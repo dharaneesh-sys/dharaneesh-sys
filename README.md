@@ -63,8 +63,7 @@
 ### Connect
 
 <a href="mailto:dharaneesh8a@gmail.com"><img src="https://img.shields.io/badge/email-dharaneesh8a@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-<!-- LinkedIn placeholder — will be patched when you send it -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming_soon-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/dharaneesh-u-25992b377"><img src="https://img.shields.io/badge/LinkedIn-dharaneesh--u-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=7ad9a8&height=80&section=footer&text=&animation=fadeIn" alt="footer" /></p>
 
